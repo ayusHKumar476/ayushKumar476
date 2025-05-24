@@ -60,45 +60,33 @@
 ### 🔥 **Software Engineer** @ Mindfire Digital LLP
 > **Jan 2024 - Present** | *Bhubaneshwar, Odisha*
 
-```python
-achievements = {
-    "application_development": "Architected full-scale web app with secure OTP & email recovery",
-    "ui_ux_engineering": "Built custom in-browser campaign builder (Canva-like)",
-    "payment_integration": "Integrated Authorize.net for PCI-compliant transactions",
-    "data_visualization": "Implemented map-based campaigns with demographic overlays",
-    "admin_development": "Created modular dashboard with RBAC & audit trails",
-    "automation": "Automated PDF generation, uploads & export features",
-    "search_optimization": "Enabled PDF content search using PyMuPDF"
-}
-```
+**🏗️ Application Development:** Architected full-scale web app with secure OTP & email recovery  
+**🎨 UI/UX Engineering:** Built custom in-browser campaign builder (Canva-like)  
+**💳 Payment Integration:** Integrated Authorize.net for PCI-compliant transactions  
+**📊 Data Visualization:** Implemented map-based campaigns with demographic overlays  
+**⚙️ Admin Development:** Created modular dashboard with RBAC & audit trails  
+**🤖 Automation:** Automated PDF generation, uploads & export features  
+**🔍 Search Optimization:** Enabled PDF content search using PyMuPDF
 
 ### 🚀 **Associate Software Engineer** @ Mindfire Digital LLP
 > **Apr 2023 - Dec 2023** | *Bhubaneshwar, Odisha*
 
-```javascript
-const achievements = {
-    fullStackDev: "Delivered complete marketplace app (Django + JS + MySQL)",
-    security: "Implemented secure auth with role-based permissions",
-    eCommerce: "Built dynamic cart, order & checkout systems",
-    analytics: "Developed performance dashboard with campaign metrics",
-    testing: "Achieved 90%+ test coverage, reduced critical bugs",
-    adminTools: "Designed robust admin features & analytics reporting"
-};
-```
+**🚀 Full-Stack Development:** Delivered complete marketplace app (Django + JS + MySQL)  
+**🔐 Security Implementation:** Implemented secure auth with role-based permissions  
+**🛒 E-Commerce Features:** Built dynamic cart, order & checkout systems  
+**📈 Data Analytics:** Developed performance dashboard with campaign metrics  
+**🧪 Quality Assurance:** Achieved 90%+ test coverage, reduced critical bugs  
+**🛠️ Admin Tools:** Designed robust admin features & analytics reporting
 
 ### ⚡ **Associate Software Engineer** @ Mindfire Digital LLP
 > **Aug 2022 - Mar 2023** | *Bhubaneshwar, Odisha*
 
-```json
-{
-  "api_optimization": "Improved performance by 25% using async processing",
-  "ai_integration": "Integrated ChatGPT, DALL·E & Midjourney APIs",
-  "security": "Implemented JWT authentication across endpoints",
-  "frontend": "Built responsive React interfaces",
-  "components": "Developed modular, reusable components",
-  "collaboration": "Participated in agile ceremonies & code reviews"
-}
-```
+**⚡ API Optimization:** Improved performance by 25% using async processing  
+**🤖 AI Integration:** Integrated ChatGPT, DALL·E & Midjourney APIs  
+**🔒 Security Enhancement:** Implemented JWT authentication across endpoints  
+**💻 Frontend Development:** Built responsive React interfaces  
+**🧩 Component Architecture:** Developed modular, reusable components  
+**🤝 Agile Collaboration:** Participated in agile ceremonies & code reviews
 
 ---
 
