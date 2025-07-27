@@ -8,7 +8,7 @@
 <div align="center">
   
 ## 🚀 Full-Stack Developer & Problem Solver
-### 📍 Bhubaneshwar, Odisha, India
+### 📍 Hyderabad, Telangana, India
 
 </div>
 
