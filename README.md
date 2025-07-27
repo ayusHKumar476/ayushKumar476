@@ -20,7 +20,7 @@
 
 | 💼 Experience | 🎯 Roles | 🛠️ Technologies | 🧪 Test Coverage |
 |:-------------:|:--------:|:---------------:|:----------------:|
-| **2.5+ Years** | **3 Progressions** | **10+ Tech Stack** | **90%+ Coverage** |
+| **3 Years** | **3 Progressions** | **10+ Tech Stack** | **90%+ Coverage** |
 
 </div>
 
